@@ -1,2 +1,4 @@
 # hello-world
-testing of GitHub
+Hi all, 
+
+Somewhere over the rainbow, skies are blue...
